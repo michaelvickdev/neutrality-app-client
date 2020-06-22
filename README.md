@@ -45,11 +45,3 @@ npm build
 * [React.js](https://reactjs.org/redux)
 * [Redux](https://redux.js.org/)
 * [react-usa-map](https://www.npmjs.com/package/react-usa-map)
-
-## Authors
-
-* **Mike Schmerbeck** [Portfolio](https://www.mikeschmerbeck.com)
-
-## Acknowledgments
-
-* **Darren Laiben** - Designer
